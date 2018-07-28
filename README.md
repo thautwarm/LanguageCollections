@@ -1,5 +1,9 @@
 # programming-languages-implemented-by-myself
 
+- RUSH. [https://github.com/thautwarm/rtpy](https://github.com/thautwarm/rtpy)
+    
+    A terminal implemented by my CLI library(`rtpy`) which is scalable, intuitive, and effective.
+
 - RBNF. [https://github.com/thautwarm/RBNF](https://github.com/thautwarm/RBNF)
 
     There is a DSL for `rbnf`.
