@@ -1,5 +1,10 @@
 # programming-languages-implemented-by-myself
 
+- Reley. [https://github.com/thautwarm/reley](https://github.com/thautwarm/reley)
+    
+    Statically compiled language based on CPython to deal with complex works.
+    For people to write fast, safe and concise codes on Python VM.
+
 - RUSH. [https://github.com/thautwarm/rtpy](https://github.com/thautwarm/rtpy)
     
     A terminal implemented by my CLI library(`rtpy`) which is scalable, intuitive, and effective.
