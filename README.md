@@ -25,9 +25,9 @@
 
     the Malt programming language.
 
-- dbg-lang. [https://github.com/thautwarm/dbg-lang](https://github.com/thautwarm/dbg-lang)
+- dbg-lang. https://github.com/Xython/auto-orm
 
-    Automatically build your database ORM components.
+    Automatically build ORM(object-relational mapping) components from a concise DSL.
 
 - \* Squirrel(not exactly a language) [https://github.com/thautwarm/SquirrelLanguage](https://github.com/thautwarm/SquirrelLanguage)
 
