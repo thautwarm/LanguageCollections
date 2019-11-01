@@ -11,6 +11,13 @@
     In this way, writing racket becomes quite simple,
     with good readability for people who're used to infix notations and not used to deeply nested parentheses.
 
+- YAPyPy. [https://github.com/Xython/YAPyPy](https://github.com/Xython/YAPyPy)
+
+    A Python implemented in pure CPython, which is extremely extensible in pure Python level.
+    It can be run with CPython 3.6 and CPython 3.7(and accepts all Python3 code!), tested on existing codebase of Python community(Scikit-Learn, NumPy, SciPy, etc.),
+    and supports new features like PEP572.
+
+    P.S: It's implemented by a group of very kind people(including me, haha), others are all the friends I'm so proud of!
 
 - Reley. [https://github.com/thautwarm/reley](https://github.com/thautwarm/reley)
 
