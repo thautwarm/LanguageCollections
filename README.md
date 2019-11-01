@@ -1,12 +1,24 @@
 # programming-languages-implemented-by-myself
 
+- Sijuiacion: [https://github.com/RemuLang/sijuiacion-lang](https://github.com/RemuLang/sijuiacion-lang)
+
+    Actual indirect jumps(Label As Value) and switch cases implemented in CPython VM, via taking advantage of
+    the CPython's `END_FINALLY` instruction.
+
+- ML-To-Scheme. [https://github.com/thautwarm/ml-to-scheme](https://github.com/thautwarm/ml-to-scheme)
+
+    A simple dialect of ML language, which is compiled to Racket.
+    In this way, writing racket becomes quite simple,
+    with good readability for people who're used to infix notations and not used to deeply nested parentheses.
+
+
 - Reley. [https://github.com/thautwarm/reley](https://github.com/thautwarm/reley)
-    
+
     Statically compiled language based on CPython to deal with complex works.
     For people to write fast, safe and concise codes on Python VM.
 
 - RUSH. [https://github.com/thautwarm/rtpy](https://github.com/thautwarm/rtpy)
-    
+
     A terminal implemented by my CLI library(`rtpy`) which is scalable, intuitive, and effective.
 
 - RBNF. [https://github.com/thautwarm/RBNF](https://github.com/thautwarm/RBNF)
@@ -34,7 +46,7 @@
 
     Transpiler to CPP14.
 
-    
+
 
 
 
