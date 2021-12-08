@@ -74,12 +74,11 @@ And most of them are designed by myself.
     It can be run with CPython 3.6 and CPython 3.7(and accepts all Python3 code!), tested on existing codebase of Python community(Scikit-Learn, NumPy, SciPy, etc.),
     and supports new features like PEP572.
 
-    P.S: It's implemented by a group of very kind people(including me, haha), others are all the friends I'm so proud of!
+    P.S: It's implemented by a group of very kind people. I lead this project, and I'm so proud of all our members!
 
-- Reley[static typing not implemented]. [https://github.com/thautwarm/reley](https://github.com/thautwarm/reley)
+- Reley. [https://github.com/thautwarm/reley](https://github.com/thautwarm/reley)
 
-    Statically compiled language based on CPython to deal with complex works.
-    For people to write fast, safe and concise codes on Python VM.
+    Haskell-like programming language that compiles CPython bytecode.
 
 - RUSH. [https://github.com/thautwarm/rtpy](https://github.com/thautwarm/rtpy)
 
