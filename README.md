@@ -2,6 +2,13 @@
 
 And most of them are designed by myself.
 
+- DianaScript: [https://github.com/thautwarm/DianaScript-JIT](https://github.com/thautwarm/DianaScript-JIT)
+
+   Fast Dynamic Programming Language in .NET, **compatible to IL2CPP**. 
+
+- simple-pl: [https://github.com/thautwarm/simple-pl](https://github.com/thautwarm/simple-pl)
+
+   A Python-like programming language, implemented in 15 minutes. A tutorial to show the power of modern parser generators.
 
 - hmf: [https://github.com/RemuLang/hmf](https://github.com/RemuLang/hmf)
 
