@@ -4,7 +4,7 @@ And most of them are designed by myself.
 
 - TongYuan MLang: [https://www.tongyuan.cc/release/syslab](https://www.tongyuan.cc/release/syslab)
 
-    In short, TongYuan MLang to MATLAB is like QuickJS to NodeJS, but with extra support for common libraries. Unlike Octave, TongYuan MLang has a core language that is truely compatible to MATLAB core language, which is achieved by us without any known language specification in the world. TongYuan MLang is damn small and enjoys high performance linear algebra operations, but it heavily relies on the runtime of Julia programming languages.
+    In short, TongYuan MLang to MATLAB is like QuickJS to NodeJS, but with extra support for common libraries. Unlike Octave, TongYuan MLang has a core language that is truely compatible to MATLAB core language, which is achieved by us without any known language specification in the world. TongYuan MLang is damn small and enjoys high performance linear algebra operations, but it heavily relies on the runtime of the Julia programming language.
 
 - DianaScript: [https://github.com/thautwarm/DianaScript-JIT](https://github.com/thautwarm/DianaScript-JIT)
 
